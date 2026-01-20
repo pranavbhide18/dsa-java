@@ -1,3 +1,5 @@
+package Arrays;
+
 public class CountInversions {
     void main() {
         int[] nums = {5,3,2,4,1};
